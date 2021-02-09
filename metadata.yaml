@@ -1,5 +1,8 @@
 _repo: Albertine-disparue-Vol-02-of-2-A-la-recherche-du-temps-perdu-Tome-7_64428
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 64428-h/images/albertine02_cover.jpg
 creator:
   author:
     agent_name: Proust, Marcel
@@ -11,6 +14,8 @@ creator:
     - https://en.wikipedia.org/wiki/Marcel_Proust
     - https://fr.wikipedia.org/wiki/Marcel_Proust
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64428#Albertine-disparue-Vol-02-of-2-A-la-recherche-du-temps-perdu-Tome-7
 gutenberg_issued: '2021-01-31'
 gutenberg_type: Text
 identifiers:
